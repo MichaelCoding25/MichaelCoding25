@@ -25,3 +25,4 @@
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/datagrip/" title="DataGrip"> <img src="https://github.com/detain/svg-logos/blob/master/svg/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/></a>
 <a href="https://www.sqlite.org" title="SQLite"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/sqlite.svg" alt="SQLite" width="40" height="40"/>  </a>
+<a href="https://www.dosbox.com" title="DOSBox"> <img src="https://github.com/file-icons/icons/blob/master/svg/DOSBox-Alt.svg" alt="DOSBox" width="40" height="40"/>  </a>
