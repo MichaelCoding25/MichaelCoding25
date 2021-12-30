@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Michael</h1>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/43636601/126186338-20540503-e4f3-4d99-b531-2722670d29d9.jpg" widtg="40" height="40"> 1st Year Computer Science Student at <a href="https://www.ariel.ac.il/wp/cs/en/">Ariel University</a></h3> 
 
 <h4 align="center"><img src="https://apply.aspirant.cloud//assets/img/gallery/gallery_item_4.png" widtg="60" height="60"> Developer at <a href="https://apply.aspirant.cloud/">Aspirant Gaming</a></h4>
 
