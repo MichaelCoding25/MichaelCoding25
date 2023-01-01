@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Michael</h1>
 
-<h4 align="center"><img src="https://apply.aspirant.cloud//assets/img/gallery/gallery_item_4.png" widtg="60" height="60"> Developer at <a href="https://apply.aspirant.cloud/">Aspirant Gaming</a></h4>
+<h4 align="center"><img src="https://cad.aspirant.cloud/assets/img/logo/logo_AG.png" widtg="60" height="60"></h4>
+<h4 align="center">Senior Developer at <a href="https://cad.aspirant.cloud/">Aspirant Gaming</a></h4>
 
-- 📫 Email: mikispector2@gmail.com
 - Contact me on Discord: <b>Melodic#9770</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
