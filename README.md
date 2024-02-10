@@ -25,5 +25,5 @@
 <a href="https://www.eclipse.org/eclipseide/" title="Eclipse"> <img src="https://github.com/get-icon/geticon/blob/master/icons/eclipse.svg" alt="Eclipse IDEA" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/datagrip/" title="DataGrip"> <img src="https://github.com/detain/svg-logos/blob/master/svg/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/datagrip/" title="DataGrip"> <img src="https://github.com/detain/svg-logos/blob/master/svg/d/datagrip-icon.svg" alt="DataGrip" width="40" height="40"/></a>
 <a href="https://www.sqlite.org" title="SQLite"> <img src="https://github.com/get-icon/geticon/blob/master/icons/sqlite.svg" alt="SQLite" width="60" height="60"/>  </a>
