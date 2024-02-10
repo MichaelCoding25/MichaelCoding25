@@ -3,7 +3,7 @@
 <h4 align="center"><img src="https://cad.aspirant.cloud/assets/img/logo/logo_AG.png" widtg="60" height="60"></h4>
 <h4 align="center">Senior Developer at <a href="https://cad.aspirant.cloud/">Aspirant Gaming</a></h4>
 
-- Contact me on Discord: <b>Melodic#9770</b>
+- <b>Contact me on Discord: <a href="https://discord.com/users/221695300178411520">melodicgames</a></b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCoding25&theme=yeblu&layout=compact" />
